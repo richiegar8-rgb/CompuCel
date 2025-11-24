@@ -21,6 +21,9 @@ public class Principal {
 		
 		LogicaMetodos imp = new LogicaMetodos();
 		
+		System.out.println("Hola Mundo");
+		System.out.println("Que tengan un buen dia "+10);
+		
 		do{
 			System.out.println("BIENVENIDOS AL SISTEMA");
 			System.out.println("1--ALTA");
