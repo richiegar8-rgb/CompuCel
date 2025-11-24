@@ -24,6 +24,9 @@ public class Principal {
 		System.out.println("Hola Mundo");
 		System.out.println("Que tengan un buen dia "+10);
 		
+		float numero1 = 20, numero2 = 50;
+		System.out.println("El resultado es " + numero1 * numero2);
+		
 		do{
 			System.out.println("BIENVENIDOS AL SISTEMA");
 			System.out.println("1--ALTA");
